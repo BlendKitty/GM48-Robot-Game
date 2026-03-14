@@ -9,3 +9,4 @@ windowSize.arrayWorkaroundThing = ini_read_real("Video", "WindowSize", 4);
 ini_close();
 
 view_camera[0] = camera_create_view(0, 0, windowSize.screenResolutionVerti[windowSize.arrayWorkaroundThing], windowSize.screenResolutionHoriz[windowSize.arrayWorkaroundThing], 0, noone, -1, -1, -1, -1);
+window_set_size(windowSize.screenResolutionHoriz[2], windowSize.screenResolutionVerti[2]);
