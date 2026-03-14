@@ -18,5 +18,8 @@ if (_xvel > max_speed) {
 if (_xvel < -max_speed) {
 	_xvel = -max_speed;
 }
+_yvel = -jump_speed * InputCheck(INPUT_VERB.JUMP);
+_yvel = max(_yvel, max_jump_speed);
+_yvel += grv
 
  move_and_collide(_xvel, _yvel, collision, undefined, undefined, undefined, max_speed, 12);
