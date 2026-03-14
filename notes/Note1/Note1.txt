@@ -1,0 +1,49 @@
+project name: Disaster at the Lab (placeholder for now, might change later)
+
+created by: 
+- redthered279
+- blendkitty
+
+story:
+
+the scientists at SciCorp (a military science cooperation funded by
+the government) has successfuly created a new powerful and hyperintelligent android, 
+The Tormenter XK900! Unfortunately, while XK was performing its final test,
+a power outtage occurs at the lab, and an explosion is heard, followed by
+gunshots.
+
+the scientists running the test abandonded theist position, leaving XK on
+its own, and it started to wander around trying to figure out what's going on
+
+suddenly, a nearby monitor turns out, and it displayes a seemingly frieghtened scientist, his name is Mr. Goodguy
+he tells XK that several subjects of experiments has escaped containment and has started
+killing everyone in the lab...
+
+the scientists begs XK to help, and he looks and sounds helpless, he asks XK to locate and terminate
+all the subjects and save him and whoever is left alive, if there's any
+the nearby elevator opens up, and XK walks into it, starting the game
+
+there are 4 floors to the game, each ending with a boss battle, the player is free to choose any floor to play,
+except the forth floor, which is the final floor and is intended for the final boss
+
+clearing a floor will reward the player with a new ability, in exchange with an ability or stats
+cleaering a floor will cause some of that floor's enemies to spawn in other floors
+
+FLOOR 1: The GremBots
+this floor is overrun by small robots named GremBots, they're very aggressive and will try to sabotage XK
+for its body parts, the final boss of the floor is one GremBot who ammassed a lot of powerful attachments and parts
+its name is GrimBot
+
+FLOOR 2: Organic Masses
+this floor is overrun by sentient chunks of meat with an eye and a mouth, they're very scared and they will attack XK in self defense
+the final boss is The Mother, a creature that gives birth to smaller chunks of meat
+
+FLOOR 3: Hell on Earth
+this floor is on fire! XK must dodge and the flames as it tries to reach the final room of the floor
+the final boss is XK8000, the previous model of XK9000 who was sabotaged to shoot fire at everyone
+
+FLOOR 4: The Escape?
+this floor is a combination of the previous floors
+the final boss of this floor is... Mr. Goodguy? apparently, the AI overseer who runs this building has gone rogue and it tricked XK
+by faking a scientists' identity, and now it's trying to escape the building using XK's body. it will use a creature
+who's the combination of all the previous bosses
