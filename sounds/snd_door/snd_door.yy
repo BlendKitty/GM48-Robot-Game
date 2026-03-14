@@ -1,6 +1,6 @@
 {
   "$GMSound":"v2",
-  "%Name":"sound",
+  "%Name":"snd_door",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -12,7 +12,7 @@
   "conversionMode":0,
   "duration":0.49049887,
   "exportDir":"",
-  "name":"sound",
+  "name":"snd_door",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"sound.wav",
+  "soundFile":"snd_door.wav",
   "volume":1.0,
 }
