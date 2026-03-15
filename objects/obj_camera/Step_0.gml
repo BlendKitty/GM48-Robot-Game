@@ -1,4 +1,0 @@
-x = obj_player.x
-y = obj_player.y
-
-camera_set_view_pos(0, x, y)

@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_camera",
+  "%Name":"obj_player_laser",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_camera",
+  "name":"obj_player_laser",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,7 +30,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_player_laser",
+    "path":"sprites/spr_player_laser/spr_player_laser.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

@@ -1,7 +1,7 @@
 if !file_exists("Options.ini") {
 	ini_open("Options.ini");
 	//Normal Stuff
-	ini_write_string("Video", "windowSize", 4);
+	ini_write_string("Video", "windowSize", 2);
 	ini_write_string("Video", "CRTShader", false);
 	ini_write_string("Video", "screenShake", true);
 	ini_write_string("Video", "flashingLights", true);

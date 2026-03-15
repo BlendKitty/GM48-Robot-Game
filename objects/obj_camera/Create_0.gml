@@ -4,9 +4,13 @@ windowSize = {
 	arrayWorkaroundThing : 0
 };
 
+camera_width = 1024
+camera_hight = 768
+
 ini_open("Options.ini");
-windowSize.arrayWorkaroundThing = ini_read_real("Video", "WindowSize", 4);
+windowSize.arrayWorkaroundThing = ini_read_real("Video", "WindowSize", 2);
 ini_close();
 
 //view_camera[0] = camera_create_view(0, 0, windowSize.screenResolutionVerti[windowSize.arrayWorkaroundThing], windowSize.screenResolutionHoriz[windowSize.arrayWorkaroundThing], 0, noone, -1, -1, -1, -1);
+view_camera[0] = camera_create_view(0, 0, camera_width, camera_hight, 0, noone, -1, -1, -1, -1);
 window_set_size(windowSize.screenResolutionHoriz[windowSize.arrayWorkaroundThing], windowSize.screenResolutionVerti[windowSize.arrayWorkaroundThing]);

@@ -1,7 +1,10 @@
-move_speed = 1.25;
-max_speed = 5;
+move_speed = 1.2;
+max_speed = 6;
 collision = layer_tilemap_get_id("tiles_col_1");
-jump_speed = 7
-max_jump_speed = 3
-grv = 0.45
+jump_speed = 20
+max_jump_speed = 40
+grv = 1
 _yvel = 0;
+_xvel = 0;
+shoot_cooldown = 0
+direction = 0
